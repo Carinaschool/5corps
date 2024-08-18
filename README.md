@@ -6,10 +6,6 @@
    
    2 Users can view reviews from experts that provides quality reviews about the attractions, because experts can use their personal experience to comment on that trip itself.
    
-   3 
-
-
-
 
 
  ### Deployments
