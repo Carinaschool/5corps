@@ -2,7 +2,7 @@
  We at 5 corporate are trying to make a one-stop website for users to look for hotels, activities and places to play when visiting a city or a country.
 
  # What differentiate us from other booking websites or trip advisors
-   1 We provide a point collection system that allows user to collect points when they book anything from our website. This allows them to exchage vouchers for their next trip.
+   1 We provide a point collection system that allows user to collect tokens when they book anything from our website. This allows them to exchage vouchers for their next trip.
    
    2 Users can view reviews from experts that provides quality reviews about the attractions, because experts can use their personal experience to comment on that trip itself.
    
