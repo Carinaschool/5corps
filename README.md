@@ -5,6 +5,10 @@
    1 We provide a point collection system that allows user to collect tokens when they book anything from our website. This allows them to exchage vouchers for their next trip.
    
    2 Users can view reviews from experts that provides quality reviews about the attractions, because experts can use their personal experience to comment on that trip itself.
+
+   3 Users do not need to browse through different website when finding a travel plans to execute, for example Tiktok or Facebook
+
+   4 Users can find out what is near them for examples popular cafes and places to visit if they have no idea on what to do at that specific place
    
 
 
